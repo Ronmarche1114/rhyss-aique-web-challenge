@@ -11,6 +11,7 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        button: "rgba(45, 104, 248, 1)",
       },
     },
   },
